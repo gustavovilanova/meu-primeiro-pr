@@ -1,8 +1,8 @@
 # Meu Primeiro PR
 
-Bem vindo ao meu priemiro repositório de testes!
+Bem-vindo ao meu primeiro repositório de testes!
 
-Este projeto demonstra como funcionna o fluxo de Pull Request no GitHub.
+Este projeto demonstra como funciona o fluxo de Pull Request no GitHub.
 
 ## Como usar
 
